@@ -4,7 +4,7 @@
 <p align="center">
   <a href="mailto:ganeshsudhanaguta68@gmail.com"><img src="https://img.shields.io/badge/Gmail-ganeshsudhanaguta68@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ganesh-s-95b848273/"><img src="https://img.shields.io/badge/LinkedIn-Ganesh%20Sudhanagunta-blue?style=flat-square&logo=linkedin" /></a>
-  <a href="https://my-portfolio-frontend-dexh.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=vercel" /></a>
+  <a href="https://ganeshsudhanagunta.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=vercel" /></a>
 </p>
 
 ---

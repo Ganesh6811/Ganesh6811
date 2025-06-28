@@ -22,7 +22,7 @@ I’m a passionate and detail-oriented **Full-Stack Web Developer** delivering r
 ## 💼 Tech Expertise
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,ts,js,react,nodejs,express,mongodb,postgres,mysql,tailwind,bootstrap,vite,git,github,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,ts,js,react,nodejs,express,mongodb,postgres,mysql,tailwind,bootstrap,vite,git,github,postman,vscode,threejs, framermotion" />
 </p>
 
 ---
